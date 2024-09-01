@@ -1,5 +1,6 @@
 #!/bin/bash
 # (c) J~Net 2024
+# https://github.com/jamieduk/Encrypted-SoCat-Chat
 #
 # ./setup.sh
 #
