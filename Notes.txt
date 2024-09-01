@@ -1,3 +1,34 @@
+Encrypted SoCat Chat By J~net 2024
+
+
+https://github.com/jamieduk/Encrypted-SoCat-Chat
+
+
+
+use setup.sh to generate the new server key!
+
+./setup.sh
+
+then 
+
+./start_Server.sh
+
+then to connect use
+
+./connect.sh
+
+
+Please Note:
+
+For external Access!!
+
+You will need to allow port in firewall and forward the port in your router!
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Manual method!
+
 Steps to Create an Encrypted Tunnel Chat Room
 Generate SSL Certificates
 
